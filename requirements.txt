@@ -1,2 +1,4 @@
-pyxl320
+simplejson
+build_utils
 time
+git+https://github.com/BossOfCreeps/pyxl320

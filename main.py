@@ -54,9 +54,10 @@ def fun_with_pose():
 	while True:
 		pose = input("pose: ")
 		if pose == "end":
-			break 
+			break
 		set_pose(pose)
 
-if __main__ = "__main__":
-	init("COM8")
-	end()
+
+init("COM5")
+fun_with_pose()
+end()
